@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-![ios101_project2_demo](https://github.com/user-attachments/assets/4f602e68-bc30-447a-bb52-fdc247102513)
 
+![ios101_project2_demo](https://github.com/user-attachments/assets/b822d3e2-bcf8-418f-83ea-732396ab9aee)
 
 ## Notes
 
