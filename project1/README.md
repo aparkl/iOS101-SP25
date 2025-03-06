@@ -2,7 +2,7 @@
 
 Submitted by: **Andrew Lee**
 
-**Simple Wordle** is an app that ... [TODO] 
+**Simple Wordle** is an app that enables users to play Wordle with its few minimal features.
 
 Time spent: **1.5** hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://imgur.com/a/ios-101-spring-25-project-1-z0dqw4M).
+![iOS101_project1_demo](https://github.com/user-attachments/assets/210a4873-7ead-44b5-b4c9-6e703d4d316c)
 
 
 ## Notes
