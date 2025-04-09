@@ -14,6 +14,9 @@ class ViewController: UIViewController, UITableViewDataSource {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        title = "Blog Posts"
+        navigationController?.navigationBar.prefersLargeTitles = true
 
         tableView.dataSource = self
         fetchPosts()
@@ -87,6 +90,14 @@ class ViewController: UIViewController, UITableViewDataSource {
             let selectedPost = posts[indexPath.row]
             detailVC.post = selectedPost
             print("✅ Passing post to detail view: \(selectedPost.caption)")
+        }
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
+        if let selectedIndexPath = tableView.indexPathForSelectedRow {
+            tableView.deselectRow(at: selectedIndexPath, animated: true)
         }
     }
 }
