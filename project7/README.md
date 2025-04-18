@@ -2,7 +2,7 @@
 
 Submitted by: **Andrew Lee**
 
-**Name of your app** is an app that helps the user track their TODO items with a useful date-based item sorting feature.
+**Tasks** is an app that helps the user track their TODO items with a useful date-based item sorting feature.
 
 Time spent: **1.5** hours spent in total
 
